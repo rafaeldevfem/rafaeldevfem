@@ -3,13 +3,16 @@
 - 👀 Atualmente trabalho como programador Front-End
 - 💻 Me aprimorando em Next JS
 - 💞️ Amante da programação
+- 🧑🏻‍💼 [Perfil primário](https://github.com/rafaeldevcode)
+- 💻 [Site Pessoal](https://rafaeldevcode.ml)
 
 ##
 
 <div align="center">
   <a href="https://github.com/rafaeldevfem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevfem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevfem&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevfem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevfem&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
   
 ##
