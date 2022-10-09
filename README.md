@@ -3,7 +3,7 @@
 - 👀 Atualmente trabalho como programador Front-End
 - 💻 Me aprimorando em Next JS
 - 💞️ Amante da programação
-- 🧑🏻‍💼 [Perfil primário](https://github.com/rafaeldevcode)
+- 🧑🏻‍💼 Este perfil é para repositórios privados, perfil público confira [Aqui](https://github.com/rafaeldevcode)
 - 💻 [Site Pessoal](https://rafaeldevcode.ml)
 
 ##
