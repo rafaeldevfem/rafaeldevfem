@@ -33,20 +33,6 @@
 </div>
   
 ##
- 
-#### Alguns projetos desenvolvidos
-- ##### Next JS
-  - [Usmoney](https://usmoney.com.br/)
-  - [Mulherama](https://www.mulherama.com.br/)
- 
-- ##### PHP
-  - [Moneynews QUIZ](https://recomendacao.moneynews.com.br/)
-  
-#### Projetos com participação no desenvolvimento
-- ##### PHP
-  - [Afiliamaster](https://app.afiliamaster.com)
-  
-##
   
 <div align="center"> 
   <a href="https://instagram.com/rafaeldevcode" target="_blank">
